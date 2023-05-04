@@ -1,0 +1,1 @@
+../../target/scala-3.3.0-RC5/twitter-account-opt/main.js
